@@ -1,0 +1,24 @@
+{
+  "name": "essentialpack",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "essentialpack": "./bin/essentialpack.js"
+  },
+  "scripts": {
+    "essentialpack": "node ./bin/essentialpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefe-spain/essentialpack.git"
+  },
+  "author": "Jesus Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefe-spain/essentialpack/issues"
+  },
+  "homepage": "https://github.com/jefe-spain/essentialpack#readme",
+  "devDependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
